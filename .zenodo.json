@@ -1,0 +1,21 @@
+{
+  "title": "Email Assistant AI: Gmail automation workflow for n8n",
+  "description": "<p>An open-source n8n workflow that monitors a Gmail inbox, classifies incoming messages with Google Gemini, and drafts or sends replies. Import the JSON file into n8n, connect your own Gmail and Gemini credentials, and adapt the rules to your inbox.</p><p>Built and maintained by <a href=\"https://www.9falcons.com/\">9Falcons</a>, a software development company and AI agency.</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Ul Abideen, Zain",
+      "affiliation": "9Falcons"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "n8n",
+    "workflow automation",
+    "AI agents",
+    "email automation",
+    "Gmail",
+    "Google Gemini"
+  ],
+  "access_right": "open"
+}
